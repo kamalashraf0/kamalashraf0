@@ -11,6 +11,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="kamal--ashraf" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://eg.linkedin.com/in/kamal--ashraf?trk=profile-badge">Kamal Ashraf</a></div>
 <a href="https://linkedin.com/in/kamal--ashraf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/zeyadahmed1/" height="30" width="40" /></a>
 <a href="https://fb.com/kamal ashraf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kamal ashraf" height="30" width="40" /></a>
 <a href="https://discord.gg/#6763" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#6763" height="30" width="40" /></a>
