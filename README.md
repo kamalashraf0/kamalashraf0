@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kamalashraf0&label=Profile%20views&color=0e75b6&style=flat" alt="kamalashraf0" /> </p>
 
-- 🌱 I’m currently learning **.Net development**
+- 🌱 I’m currently learning **ASP.NET Core**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
