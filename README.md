@@ -1,4 +1,4 @@
-![New Image](https://miro.medium.com/v2/resize:fit:679/1*0FMbbiMKFR5nhEanHG-hWw.gif)
+![New Image]([https://miro.medium.com/v2/resize:fit:679/1*0FMbbiMKFR5nhEanHG-hWw.gif](https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif))
 
 
 <h1 align="center">Hi 👋, I'm Kamal Ashraf Mohamed</h1>
