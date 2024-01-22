@@ -1,4 +1,7 @@
 ![New Image](https://miro.medium.com/v2/resize:fit:679/1*0FMbbiMKFR5nhEanHG-hWw.gif)
+[![Profile Views](https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/kamalashraf0)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/kamal--ashraf)
+
 
 <h1 align="center">Hi 👋, I'm Kamal Ashraf Mohamed</h1>
 <h3 align="center">Junior ASP.NET Core Developer</h3>
