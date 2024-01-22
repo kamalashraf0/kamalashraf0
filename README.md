@@ -5,8 +5,9 @@
 <h3 align="center">Junior ASP.NET Core Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kamalashraf0&label=Profile%20views&color=0e75b6&style=flat" alt="kamalashraf0" /> </p>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/kamal--ashraf)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kamalashraf0&label=Profile%20views&color=0e75b6&style=flat" alt="kamalashraf0" /> </p>
 
 
 - 🌱 I’m currently learning **ASP.NET Core**
