@@ -1,6 +1,4 @@
 ![New Image](https://miro.medium.com/v2/resize:fit:679/1*0FMbbiMKFR5nhEanHG-hWw.gif)
-[![Profile Views](https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/kamalashraf0)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/kamal--ashraf)
 
 
 <h1 align="center">Hi 👋, I'm Kamal Ashraf Mohamed</h1>
@@ -8,6 +6,8 @@
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kamalashraf0&label=Profile%20views&color=0e75b6&style=flat" alt="kamalashraf0" /> </p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/kamal--ashraf)
+
 
 - 🌱 I’m currently learning **ASP.NET Core**
 
