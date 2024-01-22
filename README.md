@@ -1,5 +1,5 @@
 ![MasterMind](https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif)
-<img src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" alt="MasterMind GIF">
+
 <br>
 <!-- Add more content below if needed -->
 
