@@ -1,4 +1,4 @@
-![MasterHead](https://miro.medium.com/v2/resize:fit:679/1*0FMbbiMKFR5nhEanHG-hWw.gif))
+![MasterHead](https://miro.medium.com/v2/resize:fit:679/1*0FMbbiMKFR5nhEanHG-hWw.gif)
 
 <h1 align="center">Hi 👋, I'm Kamal Ashraf Mohamed</h1>
 <h3 align="center">Junior ASP.NET Core Developer</h3>
