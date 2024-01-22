@@ -1,4 +1,7 @@
 ![MasterMind](https://media.giphy.com/media/1oF1KAEYvmXBMo6uTS/giphy.gif)
+<img src="https://media.giphy.com/media/1oF1KAEYvmXBMo6uTS/giphy.gif" alt="MasterMind GIF">
+<br>
+<!-- Add more content below if needed -->
 
 <h1 align="center">Hi 👋, I'm Kamal Ashraf Mohamed</h1>
 <h3 align="center">Junior ASP.NET Core Developer</h3>
